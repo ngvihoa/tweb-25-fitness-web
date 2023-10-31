@@ -14,14 +14,14 @@ const COLORS = {
     400: "#2B88FB",
     500: "#006EEF",
   },
-  warning: { // fix later
+  warning: { 
     100: "#FFF6D9",
     200: "#FFE1A8",
     300: "#FDC66E",
     400: "#F0A328",
     500: "#E99208",
   },
-  error: { // fix later
+  error: { 
     100: "#FDECEF",
     200: "#FFABB5",
     300: "#FA8091",
@@ -35,17 +35,6 @@ const COLORS = {
   secondary: {
     1: '#030303',
     2: '#1C1C1C',
-  },
-  tertiary: {
-    1: '#F59E0B',
-    2: '#FCD34D',
-  }, 
-  quaternary: {
-    1: '#D98905',
-    2: '#ED970B',
-    3: '#FFA004',
-    4: '#FFB741',
-    5: '#FDC871',
   },
   'neutral-1': {
     900: '#2C333A',
@@ -71,30 +60,6 @@ const COLORS = {
     100: '#F0F1F3',
     50: '#F8F9FB',
   },
-  gradient: {
-    1: {
-      start: "#D3EAFF",
-      // mid:'',
-      end: "#0085FF",
-    },
-    2: {
-      start: "#FE8C48",
-      // mid:'',
-      end: "#FF7A00",
-    },
-    3: {
-      start: "#A4EEEA",
-      mid:'#0696DE',
-      end: "#00A198",
-    },
-    4: {
-      start: "#FFB741",
-      // mid:'',
-      end: "#FFA004",
-    },
-  },
-
-
 }
 
 function genarateColorTDS() {
