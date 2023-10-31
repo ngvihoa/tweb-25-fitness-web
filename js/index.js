@@ -1,0 +1,1 @@
+/*! Name: Web-demo ; Version-Deployment : v1.0; Version-Test: v1.0 */(()=>{"use strict";window.onbeforeunload=function(){window.scrollTo(0,0)}})();

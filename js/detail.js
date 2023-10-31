@@ -1,0 +1,1 @@
+/*! Name: Web-demo ; Version-Deployment : v1.0; Version-Test: v1.0 */(()=>{let e=document.querySelector(".arrow");e.onclick=()=>{e.classList.toggle("rotate-180");let t=e.parentNode.nextElementSibling;t.style.maxHeight?t.style.maxHeight=null:t.style.maxHeight=t.scrollHeight+"px"}})();
