@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'TwebIcons-25';
+  src:  url('fonts/TwebIcons-25.eot?74uttn');
+  src:  url('fonts/TwebIcons-25.eot?74uttn#iefix') format('embedded-opentype'),
+    url('fonts/TwebIcons-25.ttf?74uttn') format('truetype'),
+    url('fonts/TwebIcons-25.woff?74uttn') format('woff'),
+    url('fonts/TwebIcons-25.svg?74uttn#TwebIcons-25') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="twi-25-"], [class*=" twi-25-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'TwebIcons-25' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.twi-25-arrow-down-line:before {
+  content: "\e900";
+}
+.twi-25-arrow-left-line:before {
+  content: "\e901";
+}
+.twi-25-arrow-right-line:before {
+  content: "\e902";
+}
+.twi-25-arrow-up-line:before {
+  content: "\e903";
+}
+.twi-25-clock-line:before {
+  content: "\e904";
+}
+.twi-25-language-line:before {
+  content: "\e905";
+}
+.twi-25-location-line:before {
+  content: "\e906";
+}
+.twi-25-user-line:before {
+  content: "\e907";
+}
+.twi-25-calendar-fill:before {
+  content: "\e908";
+}
+.twi-25-call-fill:before {
+  content: "\e909";
+}
+.twi-25-close-fill:before {
+  content: "\e90a";
+}
+.twi-25-email-fill:before {
+  content: "\e90b";
+}
+.twi-25-eye-open-fill:before {
+  content: "\e90c";
+}
+.twi-25-facebook-fill:before {
+  content: "\e90d";
+}
+.twi-25-home-fill:before {
+  content: "\e90e";
+}
+.twi-25-like-fill:before {
+  content: "\e90f";
+}
+.twi-25-linkedin-fill:before {
+  content: "\e910";
+}
+.twi-25-menu-fill:before {
+  content: "\e911";
+}
+.twi-25-pinterest-fill:before {
+  content: "\e912";
+}
+.twi-25-play-fill:before {
+  content: "\e914";
+}
+.twi-25-search-fill:before {
+  content: "\e915";
+}
+.twi-25-twitter-fill:before {
+  content: "\e916";
+}
