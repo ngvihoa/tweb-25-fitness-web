@@ -28,23 +28,23 @@ module.exports = {
   entry: {
     index: {
       import:'./src/js/index.js',
-      filename: 'js/index.js'
+      filename: './js/index.js'
     },
     home: {
       import:'./src/js/home.js',
-      filename: 'js/home.js'
+      filename: './js/home.js'
     },
     menu: {
       import:'./src/js/menu.js',
-      filename: 'js/menu.js'
+      filename: './js/menu.js'
     },
     footer: {
       import:'./src/js/footer.js',
-      filename: 'js/footer.js'
+      filename: './js/footer.js'
     },
     detail: {
       import:'./src/js/detail.js',
-      filename: 'js/detail.js'
+      filename: './js/detail.js'
     },
   },
   output: {
@@ -62,7 +62,7 @@ module.exports = {
       {
         test: /\.(woff|woff2|eot|ttf|otf)$/i,
         type: 'asset/resource',
-        generator: {filename: "fonts/[name][ext]",},
+        generator: {filename: "./fonts/[name][ext]",},
       },
       {
         test: /\.(sass|scss|css)$/,
@@ -71,7 +71,7 @@ module.exports = {
       {
         test: /\.(jpe?g|png|gif|svg)$/i,
         type: 'asset/resource',
-        generator: {filename: "images/[name][ext]",},
+        generator: {filename: "./images/[name][ext]",},
       },
       {
         test: /\.html$/i,
@@ -139,7 +139,7 @@ module.exports = {
       chunks: ['index', 'menu', 'footer', 'detail'],
     }),
     new MiniCssExtractPlugin({
-      filename: "css/[name].min.css",
+      filename: "./css/[name].min.css",
     }),
     
   ],
