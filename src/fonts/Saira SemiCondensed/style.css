@@ -3,7 +3,7 @@
   font-family: 'Saira SemiCondensed';
   font-style: normal;
   font-weight: 100;
-  src: local('saira-semicondensed.thin'), url("./saira-semicondensed.thin.ttf") format('truetype');
+  src: local('saira-semicondensed.thin'), url("saira-semicondensed.thin.ttf") format('truetype');
 }
 
 /* font-weight: xlight/200 */
@@ -11,7 +11,7 @@
   font-family: 'Saira SemiCondensed';
   font-style: normal;
   font-weight: 200;
-  src: local('saira-semicondensed.extralight'), url("./saira-semicondensed.extralight.ttf") format('truetype');
+  src: local('saira-semicondensed.extralight'), url("saira-semicondensed.extralight.ttf") format('truetype');
 }
 
 /* font-weight: light/300 */
@@ -19,7 +19,7 @@
   font-family: 'Saira SemiCondensed';
   font-style: normal;
   font-weight: 300;
-  src: local('saira-semicondensed.light'), url("./saira-semicondensed.light.ttf") format('truetype');
+  src: local('saira-semicondensed.light'), url("saira-semicondensed.light.ttf") format('truetype');
 }
 
 /* font-weight: regular/400 */
@@ -27,7 +27,7 @@
   font-family: 'Saira SemiCondensed';
   font-style: normal;
   font-weight: 400;
-  src: local('saira-semicondensed.regular'), url("./saira-semicondensed.regular.ttf") format('truetype');
+  src: local('saira-semicondensed.regular'), url("saira-semicondensed.regular.ttf") format('truetype');
 }
 
 /* font-weight: medium/450 */
@@ -35,7 +35,7 @@
   font-family: 'Saira SemiCondensed';
   font-style: normal;
   font-weight: 500;
-  src: local('saira-semicondensed.medium'), url("./saira-semicondensed.medium.ttf") format('truetype');
+  src: local('saira-semicondensed.medium'), url("saira-semicondensed.medium.ttf") format('truetype');
 }
 
 /* font-weight: semibold/600 */
@@ -43,7 +43,7 @@
   font-family: 'Saira SemiCondensed';
   font-style: normal;
   font-weight: 600;
-  src: local('saira-semicondensed.semibold'), url("./saira-semicondensed.semibold.ttf") format('truetype');
+  src: local('saira-semicondensed.semibold'), url("saira-semicondensed.semibold.ttf") format('truetype');
 }
 
 /* font-weight: bold/700 */
@@ -51,7 +51,7 @@
   font-family: 'Saira SemiCondensed';
   font-style: normal;
   font-weight: 700;
-  src: local('saira-semicondensed.bold'), url("./saira-semicondensed.bold.ttf") format('truetype');
+  src: local('saira-semicondensed.bold'), url("saira-semicondensed.bold.ttf") format('truetype');
 }
 
 /* font-weight: xbold/800 */
@@ -59,7 +59,7 @@
   font-family: 'Saira SemiCondensed';
   font-style: normal;
   font-weight: 800;
-  src: local('saira-semicondensed.extrabold'), url("./saira-semicondensed.extrabold.ttf") format('truetype');
+  src: local('saira-semicondensed.extrabold'), url("saira-semicondensed.extrabold.ttf") format('truetype');
 }
 
 /* font-weight: black/900 */
@@ -67,5 +67,5 @@
   font-family: 'Saira SemiCondensed';
   font-style: normal;
   font-weight: 900;
-  src: local('saira-semicondensed.black'), url("./saira-semicondensed.black.ttf") format('truetype');
+  src: local('saira-semicondensed.black'), url("saira-semicondensed.black.ttf") format('truetype');
 }

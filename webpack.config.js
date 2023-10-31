@@ -5,7 +5,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const HtmlMinimizerPlugin = require("html-minimizer-webpack-plugin");
 const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
 const TerserWebpackPlugin = require("terser-webpack-plugin");
-const basePath = './';
+const basePath = '/';
 
 module.exports = {
   performance : {
@@ -62,7 +62,7 @@ module.exports = {
       {
         test: /\.(woff|woff2|eot|ttf|otf)$/i,
         type: 'asset/resource',
-        generator: {filename: "css/fonts/[name][ext]",},
+        generator: {filename: "fonts/[name][ext]",},
       },
       {
         test: /\.(sass|scss|css)$/,
