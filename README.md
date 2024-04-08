@@ -4,3 +4,7 @@ This is a front-end learning project about a fitness website in the internship a
 Technologies: Webpack, HTML, CSS (SCSS), JavaScript.
 
 Libraries: TailwindCss, Slick Carousel, jQuery.
+
+To run: 
+1. Download or clone this repo
+2. run `npm start` :D
